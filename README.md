@@ -8,7 +8,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
-![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
 ### *Work experience*: I am currently working in another field. I have been learning programming since November 2020 by courses in https://www.udemy.com/, https://ru.hexlet.io/, https://htmlacademy.ru/, https://www.codecademy.com/.
 ### *Education*: By education I am an economist in the field of state and municipal administration. As I mentioned above, I am currently in the process of learning a new profession while studying at The Rolling Scope School (https://rs.school/) and on the specified resources.
 ### *English language proficiency*: B2.
