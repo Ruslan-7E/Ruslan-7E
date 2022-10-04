@@ -1,5 +1,5 @@
 ## 👋 Hi, my name is **Ruslan Mukhametshin**!
-## I'm a beginner *Fullstack developer* from Kashira, Moscow oblast. My goal in the near future is to become a demanded fullstask engineer. Of my strengths, I would single out the ability to quickly learn new things, communication skills, engineering thinking and a little perfectionism.
+## I'm a *Software Engineer* from Kashira, Moscow oblast. My goal in the near future is to become a demanded software developer. Of my strengths, I would single out the ability to quickly learn new things, communication skills, engineering thinking and a little perfectionism.
 ### Check my website: [https://github.com/Ruslan-7E](https://Ruslan-7E.github.io/)
 ### Check my profile on https://hh.ru/ : https://kashira.hh.ru/resume/d23877e7ff08afe2190039ed1f33764464586b
 ## Languages and Technologies
